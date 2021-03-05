@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Telegram's Best Filter Bot😴Developed By DX_Botz",
+   "description": "Telegram's Best Filter Bot😴Developed By @malayalam_movees",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -33,12 +33,12 @@
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "𒆜DⱥℝkͥAnͣgͫeℓ𒆜"
+         "value": "malayalam_movees"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1395141299 1395141299"
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
@@ -52,12 +52,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1395141299 1395141299"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1395141299 1395141299"
       },
      
       "TOKEN": {
@@ -78,7 +78,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1395141299 1395141299"
       }
    },
    "keywords": [
@@ -90,7 +90,7 @@
       
    ],
    "name": "Filter Bot",
-   "repository": "https://github.com/Jijinr/Filter-Bot",
+   "repository": "https://github.com/marknano009/Filter-Bot",
    "success_url": "https://telegram.dog/Filters_Robot",
    "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
 }
