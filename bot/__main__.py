@@ -37,7 +37,7 @@ _🤣🤣🤣_
 HELP_STRINGS = """
 *Hello My name is* *{}*.
 
-*YOU ARE NOT ALLOWED TO USE THIC BOT*
+*YOU ARE NOT ALLOWED TO USE THIS BOT*
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 
@@ -68,7 +68,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/d78da78020f67b6664f46.jpg"
+    img = "https://telegra.ph/file/9633c57b60c79335b0fc0.png"
 else:
   img = START_IMG    
     
